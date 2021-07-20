@@ -1,7 +1,7 @@
 # UMS
 UMS Project
 
-To install the projec go to UMS/backend and run 
+To install the project go to UMS/backend and run 
 
 npm start
 
